@@ -1,0 +1,15 @@
+{
+  "currentRelease": "1.0.5",
+  "releases": [
+    {
+      "version": "1.0.5",
+      "updateTo": {
+        "version": "1.0.5",
+        "name": "1.0.5",
+        "url": "https://github.com/willweinbach/motion-releases/releases/download/v1.0.5/Motion-1.0.5-arm64.zip",
+        "sha256": "e5f6e498329533d6463493d417b114bcb02dfe567b5d21eace01fd3e44ead08d",
+        "size": 233568155
+      }
+    }
+  ]
+}
