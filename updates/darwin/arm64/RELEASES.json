@@ -1,6 +1,16 @@
 {
-  "currentRelease": "1.0.6",
+  "currentRelease": "1.0.63",
   "releases": [
+    {
+      "version": "1.0.63",
+      "updateTo": {
+        "version": "1.0.63",
+        "name": "1.0.63",
+        "url": "https://github.com/willweinbach/motion-releases/releases/download/v1.0.63/Motion-1.0.63-arm64.zip",
+        "sha256": "9ca8e55a892eff73f6c277e4ab0d045b50f2abf6738fae37eb7183b67103ffd6",
+        "size": 261129037
+      }
+    },
     {
       "version": "1.0.6",
       "updateTo": {
