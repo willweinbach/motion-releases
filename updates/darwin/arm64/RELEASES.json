@@ -1,6 +1,16 @@
 {
-  "currentRelease": "1.0.89",
+  "currentRelease": "1.0.90",
   "releases": [
+    {
+      "version": "1.0.90",
+      "updateTo": {
+        "version": "1.0.90",
+        "name": "1.0.90",
+        "url": "https://github.com/willweinbach/motion-releases/releases/download/v1.0.90/Motion-1.0.90-arm64.zip",
+        "sha256": "a64ea259ee126ea8c01b8195384fdb9c4fa06d7ea953beb9cefd4987697b7ed4",
+        "size": 343594619
+      }
+    },
     {
       "version": "1.0.89",
       "updateTo": {
